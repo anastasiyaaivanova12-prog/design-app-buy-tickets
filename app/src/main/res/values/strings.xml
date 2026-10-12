@@ -1,10 +1,25 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string-array name="sities">
-        Moskow,
-        Irkutsk,
-        Omsk,
-        Barnaul,
-        Saint-Petersburg
+    <string-array name="city_name">
+        <item>Москва</item>
+        <item>Иркутск</item>
+        <item>Барнаул</item>
+        <item>Новосибирск</item>
+        <item>Санкт-Петербург</item>
+        <item>Улан-Удэ</item>
     </string-array>
+
+    <string name="header">Закажите билеты выгодно!</string>
+    <string name="from">Откуда</string>
+    <string name="to">Куда</string>
+    <string name="departure_date">Дата вылета</string>
+    <string name="arrival_date">Дата прилета</string>
+    <string name="date_default">01.01.2026</string>
+    <string name="number_of_passengers">Количество пассажиров</string>
+    <string name="adult">Взрослые</string>
+    <string name="children">Дети</string>
+    <string name="baby">Младенцы</string>
+    <string name="adult_default">1</string>
+    <string name="children_default">0</string>
+    <string name="search_tickets">Найти билеты</string>
 </resources>
