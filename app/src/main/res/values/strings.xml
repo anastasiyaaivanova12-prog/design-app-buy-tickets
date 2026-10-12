@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="sities">
+        Moskow,
+        Irkutsk,
+        Omsk,
+        Barnaul,
+        Saint-Petersburg
+    </string-array>
+</resources>
